@@ -1,13 +1,34 @@
-# Alfido-Tech-Internship
+# Command Line Applications in Python
 
-A collection of Python programs developed during the Alfido Tech Internship, including a calculator, to-do list app, temperature calculation and random number generator.
+This repository contains a collection of beginner-friendly **command-line applications built using Python**.  
+The programs demonstrate fundamental programming concepts such as functions, conditional statements, user input handling, and basic error management.
 
-## Features
+## Applications Included
 
-- Calculator: Perform basic arithmetic operations.
-- To-Do List App: Manage your daily tasks easily.
-- Temperature: converts the temperature as per your needs
-- Random Number Generator: Generate random numbers within specified ranges.
+### 1. Calculator
+A command-line calculator that performs basic arithmetic operations.
+
+Features:
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Handles invalid input and division by zero
+
+### 2. To-Do List Manager
+A simple command-line task manager that helps users organize daily tasks.
+
+Features:
+- Add tasks
+- View tasks
+- Manage a basic task list
+
+### 3. Temperature Converter
+A Python program that converts temperature values between different units.
+
+Features:
+- Celsius to Fahrenheit
+- Fahrenheit to Celsius
 
 ## Technologies Used
 
@@ -15,23 +36,7 @@ A collection of Python programs developed during the Alfido Tech Internship, inc
 
 ## Installation
 
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/Gargi0117/Alfido-Tech-Internship.git
-    ```
-2. Make sure you have Python 3 installed.
+Clone this repository:
 
-## Usage
-
-Navigate to the program you want to run and execute it using Python. For example:
 ```bash
-python calculator.py
-python todo_list.py
-python random_number.py
-python temperature.py
-```
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
+git clone https://github.com/Gargi0117/Alfido-Tech-Internship.git
